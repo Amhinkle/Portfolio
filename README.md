@@ -4,7 +4,7 @@ This portfolio is a small project using HTML, CSS and Bootstrap. I will be using
 
 [Live Heroku Deployment](https://allie-portfolio.herokuapp.com/)
 
-![Capture portfolio](https://raw.githubusercontent.com/Amhinkle/Portfolio/main/img/porfolio.PNG)
+![Capture portfolio](https://raw.githubusercontent.com/Amhinkle/Portfolio/main/img/porfolio-allie.PNG)
 
 ## Technologies Used
 
