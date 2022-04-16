@@ -38,6 +38,14 @@ nav{
   background-color: #E1EAFF;
 }
 
+a{
+  text-decoration: none;
+  color: lightseagreen;
+}
+
+a:hover{
+  color: rgba(32, 178, 171, 0.829);
+}
 /*************
 
 RESUME
