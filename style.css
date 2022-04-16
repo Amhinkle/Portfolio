@@ -8,6 +8,7 @@ COMMON
 
 body {
   font-family: 'Source Code Pro', monospace;
+  background-color: whitesmoke;
 }
 
 .font-primary {
