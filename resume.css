@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500;700;900&display=swap');
+
+/**********
+
+COMMON
+
+**********/
+
+body {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.font-primary {
+  color: lightseagreen;
+}
+
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1rem;
+}
+
+h2 {
+  font-weight: regular;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+a.font-black {
+  color: black !important;
+}
+
+nav{
+  background-color: #E1EAFF;
+}
+
+/*************
+
+RESUME
+
+*************/
+
+
+.container h1{
+  display: flex;
+}
+
+.align{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1rem;
+}
+
+td{
+  font-size: 1rem;
+  padding-right: 6rem;
+  padding-top: .5rem;
+}
+
+h1{
+  font-size: 2.75rem;
+}
+
+h3{
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  font-weight: bold;
+}
+
+h4{
+  padding-top: 1rem;
+  font-size: 1.2rem;
+}
+
+.linkedin-location{
+  font-size: 1rem;
+}
+
+.email-number{
+  font-size: 1rem;
+}
+
+.about{
+  font-size: 1.15rem;
+}
+
+.header{
+  font-size: 1.75rem;
+}
+
+.tech{
+  font-size: 1.15rem;
+}
+
+.certifications, li{
+  font-size: 1rem;
+}
+

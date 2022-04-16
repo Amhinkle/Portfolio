@@ -33,6 +33,28 @@ a.font-black {
   color: black !important;
 }
 
+/*************
+
+Buttons
+
+*************/
+
+a.btn-primary{
+  background-color: rgba(51, 51, 51, 0.795);
+}
+
+a.btn-secondary{
+  background-color: rgba(14, 14, 14, 0.877);
+}
+
+a.btn-primary:hover{
+  background-color: rgba(32, 178, 171, 0.795);
+}
+
+a.btn-secondary:hover{
+  background-color: lightseagreen;
+}
+
 /***********
 
 ABOUT
